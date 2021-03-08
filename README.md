@@ -1,5 +1,6 @@
 # nypd-data-project
-Data source: https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8
+Data source: [NYPD Historic Shooting Incident Data](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
+
 # Introduction
 This data set consisted of NYPD shooting incidents from 2006-2019, I limited the data to only include years 2015-2019 to get a cleaner picture of the data.
 When going through the dataset I wanted to ask a question, are minors involved in more shootings than adults? Let's find out. For this project I used PowerBI
