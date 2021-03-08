@@ -9,7 +9,7 @@ When going through the dataset I wanted to ask a question, are minors involved i
 ![NYPD Chart Photo](https://user-images.githubusercontent.com/77690931/110264811-c48bc300-7f7f-11eb-8d79-647e86a2bf87.png)
 
 
- The filters right below the 5.52k Incidents chart break out the occurences by borough, and then by year, which you can then use to filter the map
+The filters right below the 5.52k Incidents chart break out the occurences by borough, and then by year, which you can then use to filter the map
 
  1. Count of Victims by Gender: is a donut chart breaking out the count of victims by gender, showing that roughly 10% of all victims are male
 
